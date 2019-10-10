@@ -16,6 +16,10 @@ export default {
 </script>
 
 <style>
+  *{
+    margin: 0;
+    padding: 0;
+  }
 #head,#foot{
  height: 20%;
   width: 100%;
