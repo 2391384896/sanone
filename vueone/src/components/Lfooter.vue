@@ -1,8 +1,4 @@
 <template>
-
-
-
-  
     <div id="footer">
       结束网页尾部
     </div>
